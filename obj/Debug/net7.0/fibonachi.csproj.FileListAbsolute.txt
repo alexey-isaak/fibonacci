@@ -1,0 +1,15 @@
+C:\Users\User\geekbrains\fibonachi\bin\Debug\net7.0\fibonachi.exe
+C:\Users\User\geekbrains\fibonachi\bin\Debug\net7.0\fibonachi.deps.json
+C:\Users\User\geekbrains\fibonachi\bin\Debug\net7.0\fibonachi.runtimeconfig.json
+C:\Users\User\geekbrains\fibonachi\bin\Debug\net7.0\fibonachi.dll
+C:\Users\User\geekbrains\fibonachi\bin\Debug\net7.0\fibonachi.pdb
+C:\Users\User\geekbrains\fibonachi\obj\Debug\net7.0\fibonachi.csproj.AssemblyReference.cache
+C:\Users\User\geekbrains\fibonachi\obj\Debug\net7.0\fibonachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\geekbrains\fibonachi\obj\Debug\net7.0\fibonachi.AssemblyInfoInputs.cache
+C:\Users\User\geekbrains\fibonachi\obj\Debug\net7.0\fibonachi.AssemblyInfo.cs
+C:\Users\User\geekbrains\fibonachi\obj\Debug\net7.0\fibonachi.csproj.CoreCompileInputs.cache
+C:\Users\User\geekbrains\fibonachi\obj\Debug\net7.0\fibonachi.dll
+C:\Users\User\geekbrains\fibonachi\obj\Debug\net7.0\refint\fibonachi.dll
+C:\Users\User\geekbrains\fibonachi\obj\Debug\net7.0\fibonachi.pdb
+C:\Users\User\geekbrains\fibonachi\obj\Debug\net7.0\fibonachi.genruntimeconfig.cache
+C:\Users\User\geekbrains\fibonachi\obj\Debug\net7.0\ref\fibonachi.dll
